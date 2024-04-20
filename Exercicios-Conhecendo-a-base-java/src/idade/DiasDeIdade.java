@@ -17,7 +17,7 @@ public class DiasDeIdade {
 
         int idadeEmDias = idade * 365;
 
-        System.out.println("A idade em dias é: " + idadeEmDias);
+        System.out.printf("Você tem %d dias de idade!", idadeEmDias);
 
         scanner.close();
     }
