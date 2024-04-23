@@ -1,4 +1,4 @@
-package pari_impar;
+package par_impar;
 
 import java.util.Scanner;
 
