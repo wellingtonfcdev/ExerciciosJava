@@ -28,6 +28,8 @@ public class AprovadoReprovado{
             System.out.println("Aluno aprovado. Média: " + media);
         else
             System.out.println("Aluno reprovado. Média: " + media);
+
+        scanner.close();
         
     }
 }
