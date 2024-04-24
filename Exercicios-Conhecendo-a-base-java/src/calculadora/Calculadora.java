@@ -11,6 +11,7 @@ public class Calculadora {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
+        System.out.println("Informe 2 números: ");
         double n1 = scanner.nextDouble();
         double n2 = scanner.nextDouble();
 
